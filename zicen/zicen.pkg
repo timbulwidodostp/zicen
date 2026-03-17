@@ -1,4 +1,11 @@
-D 'wqsreg': Weighted Quantile Sum (WQS) regression Use wqsreg With STATA 19
+D 'zicen': Estimates a finite mixture model made of a degenerate distribution with mass at zero and one or two censored (Tobit) normals Use zicen With STATA 19
 D
-F wqsreg.ado
-F wqsreg.sthlp
+F zicen.ado
+F zicen.sthlp
+F zicen0.ado
+F zicen2_lf.ado
+F zicen2_p.ado
+F zicen3_lf.ado
+F zicen3_p.ado
+F zicenec.ado
+F zicenlc.ado
